@@ -1,0 +1,7 @@
+{
+  "name": "bh-time-line",
+  "initFun": "bhTimeLine",
+  "initType": "object",
+  "componentType": "js",
+  "isNeedMock": true
+}

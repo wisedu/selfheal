@@ -1,0 +1,31 @@
+{
+  "name": "selfheal",
+  "version": "1.0.1",
+  "description": "json文件数据合并",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^2.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisedu/selfheal.git"
+  },
+  "keywords": [
+    "json",
+    "file",
+    "combine"
+  ],
+  "author": "wisedu ghlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wisedu/selfheal/issues"
+  },
+  "homepage": "https://github.com/wisedu/selfheal#readme"
+}
